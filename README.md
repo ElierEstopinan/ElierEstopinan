@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **AI, Terraform, and**
 
-- 📫 How to reach me **elier.estopinan@gmail.com**
-
 - ⚡ Fun fact **I love mountain biking**
 
 <h3 align="left">Connect with me:</h3>
