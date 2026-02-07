@@ -2,7 +2,7 @@
 
 ### A passionate Performance & Monitor Engineer 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ElierEstopinan&label=Profile views&color=0e75b6&style=flat" alt="ElierEstopinan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=estopeli&label=Profile%20views&color=0e75b6&style=flat" alt="estopeli" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ElierEstopinan" alt="ElierEstopinan" /></a> </p>
 
