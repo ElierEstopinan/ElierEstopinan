@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estopeli&label=Profile%20views&color=0e75b6&style=flat" alt="estopeli" /> </p>
 
-- 🌱 I’m currently learning **AI, Terraform, and**
+- 🌱 I’m currently learning **AI, and Terraform**
 
 - ⚡ Fun fact **I love mountain biking**
 
