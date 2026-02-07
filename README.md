@@ -19,3 +19,4 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElierEstopinan)](https://github.com/anuraghazra/github-readme-stats)
